@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TEI Practice of Chaucer</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH practice 2021</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Transcribed from Ellesmere manuscript of Chaucer's Canterbury Tales. Held digitally by the British Library.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Some text here.
+            <l>Whilom as olde stories tellen us</l>
+            <l>There was a duc that highte <persName>Theseus</persName></l>
+            <l>Of <settlement>Atthenes</settlement> he was lord and governour</l>
+            <l>And in his tyme switch a conquerour</l>
+            <l>That gretter was ther noon under the sonne</l>
+            <l>Ful many a riche tonree hadde he wonne</l>
+            <l>What with his wysdom and his chivalrie</l>
+            <l>What with his wysdom and his chivalrie</l>
+            <l>He conquered al the <region>regne of Femenye</region></l>
+            <l>That whilom was ycleped <region>Scithia</region></l>
+            <l>And weddede the queen <persName>Ypolita</persName></l>
+            <l>And broghte hire hoom with hym in his contree</l>
+            <l>With muchel glorie and greet solempnytee</l>
+            <l>And eek hir yonge suster <persName>Emelye</persName></l>
+            <l>And this with victorie and with melodye</l>
+            <l>Lete I this noble duc to <settlement>Atthenes</settlement> ryde</l>
+            <l>And al his hoost in armes hym bisyde</l>
+            <l>And certes if it nere to long to heere</l>
+            <l>I wolde have toold yow fully the manere</l>
+            <l>How wonnen was the <region>regne of Femenye</region></l>
+            <l>By Theseus and by his chivalrye</l>
+            <l>And of the grete bataille for the nones</l>
+            <l>Bitwixen <name>Atthenes</name> and <name>Amazones</name></l>
+            <l>And how asseged was <persName>Ypolita</persName></l>
+            <l>The faire hardy queene of <region>Scithia</region></l>
+            <l>And of the feste that was at hir weddynge</l>
+            <l>And of the tempest at hir hoom-comynge</l>
+            <l>But al that thung I moot as now forbere</l>
+            <l>I have <name>God</name> woot a large feeld to ere</l>
+            <l>And wakye been the oxen in my plough</l>
+            <l>The remenant of the tale is long ynough</l>
+            <l>I wol nat letten eek noon of this route</l>
+            <l>Lat every felawe telle his tale aboute</l>
+            <l>And lat se now who shal the soper wynne</l>
+            <l>And there I lefte I wol ayeyn bigynne</l>
+         </p>
+      </body>
+  </text>
+</TEI>
