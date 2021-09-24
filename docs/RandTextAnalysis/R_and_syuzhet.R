@@ -20,13 +20,14 @@ library("dplyr")
 
 ## make VERY sure that the following packages have loaded-- base, datasets, dplyr, ggplot2, graphics, grDevices, methods, plyr, qdap, qdapDictionaries, qdapRegex, qdapTools, RColorBrewer, RCurl, RDSTK, readr, rjson, stats, syuzhet, twitteR, utils
 
-gandhi_speech = read_file("assets/gandhi_speech2.txt")
-View(gandhi_speech)
+obama_2014 = read_file("assets/obama_2014.txt")
+View(obama_2014)
+
 
 ## POLARITY AND SENTIMENT
 ## in general (for us), sentiment is how postive, negative, or neutral a statement is.
 ## polarity is the degree of that sentiment
-g_scores = get_nrc_sentiment(gandhi_speech)
+g_scores = get_nrc_sentiment(obama_2014)
 class(g_scores)
 g_scores
 g_polarity = g_scores[1,9:10]
@@ -43,7 +44,7 @@ g_sentiment = data.matrix(g_sentiment, rownames.force = TRUE)
 barplot(g_sentiment)
 
 ## break it down by sentence
-g_speech_sen = get_sentences(gandhi_speech)
+g_speech_sen = get_sentences(douglass)
 g_speech_sen
 
 sentiment_vector = get_sentiment(g_speech_sen, method = "syuzhet")
@@ -74,5 +75,8 @@ library("tm")
 library("SnowballC")
 library("wordcloud")
 
-wordcloud(gandhi_speech,colors=c("blue","green"))
+?wordcloud
+
+
+wordcloud(obama_2014, colors = c("red", "yellow", "green") , max.words = 75)
 
