@@ -6,36 +6,20 @@
      <teiHeader>
          <fileDesc>
              <titleStmt>
-                 <title>Corpus of works composed by Lin Manuel Miranda</title>
+                 <title>Corpus of songs from "In the Heights"</title>
                  <author>Alex Sanchez</author>
              </titleStmt>
 	        <publicationStmt>
-	           <p>Lin Manuel Miranda's discography from musicals and films, listed by album in chronological order of publication.</p>
+	           <p>Lin Manuel Miranda's compositions from his musical "In the Heights" which premiered on Broadway in 2008 and was adapted and re-released as a motion picture film of the same name in 2021.</p>
 	        </publicationStmt>
 	        <sourceDesc>
 	           <p>Information about the source</p>
 	        </sourceDesc>
          </fileDesc>
      </teiHeader>
-     <TEI xml:id="In the Heights">
-         <teiHeader>
-             <fileDesc>
-                 <titleStmt>
-                     <title><In the Heights></title>
-                     <author><Alex Sanchez></author>
-                 </titleStmt>
-                 <publicationStmt>
-                     <p><!-- ... --></p>
-                 </publicationStmt>
-                 <sourceDesc>
-                     <p><fff></p>
-                 </sourceDesc>
-             </fileDesc>
-         </teiHeader>
          <text>
              <body>
-                 <div type="song">
-                     <head><96,000></head>
+                     <title><"96,000"></title>
                          <p><96, 000
                              Damn...
                              96, 000
@@ -191,8 +175,8 @@
                              Ninety six thousand!
                              We'll get the dough 'n'
                              Once we get the goin'
-                             We're never gonna stop></p>
-                 </div>
+                             We're never gonna stop>
+                         </p>
              </body>
              <div type="song">
                  <head><Alabanza></head>
@@ -1775,121 +1759,5 @@
                      I'm home></p>
              </div>
          </text>
-     </TEI>
-     <TEI xml:id="Bring It On: The Musical">
-         <teiHeader>
-             <fileDesc>
-                 <titleStmt>
-                     <title><!-- ... --></title>
-                     <author><!-- ... --></author>
-                 </titleStmt>
-                 <publicationStmt>
-                     <p><!-- ... --></p>
-                 </publicationStmt>
-                 <sourceDesc>
-                     <p><!-- ... --></p>
-                 </sourceDesc>
-             </fileDesc>
-         </teiHeader>
-         <text>
-             <body>
-                 <div>
-                     <p><!-- ... --></p>
-                 </div>
-             </body>
-         </text>
-     </TEI>
-     <!-- More TEI Documents -->
-    <TEI xml:id="Hamilton">
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title><!-- ... --></title>
-                    <author><!-- ... --></author>
-                </titleStmt>
-                <publicationStmt>
-                    <p><!-- ... --></p>
-                </publicationStmt>
-                <sourceDesc>
-                    <p><!-- ... --></p>
-                </sourceDesc>
-            </fileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <div>
-                    <p><!-- ... --></p>
-                </div>
-            </body>
-        </text>
-    </TEI>
-    <TEI xml:id="Moana">
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title><!-- ... --></title>
-                    <author><!-- ... --></author>
-                </titleStmt>
-                <publicationStmt>
-                    <p><!-- ... --></p>
-                </publicationStmt>
-                <sourceDesc>
-                    <p><!-- ... --></p>
-                </sourceDesc>
-            </fileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <div>
-                    <p><!-- ... --></p>
-                </div>
-            </body>
-        </text>
-    </TEI>
-    <TEI xml:id="The Hamilton Mixtape">
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title><!-- ... --></title>
-                    <author><!-- ... --></author>
-                </titleStmt>
-                <publicationStmt>
-                    <p><!-- ... --></p>
-                </publicationStmt>
-                <sourceDesc>
-                    <p><!-- ... --></p>
-                </sourceDesc>
-            </fileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <div>
-                    <p><!-- ... --></p>
-                </div>
-            </body>
-        </text>
-    </TEI>
-    <TEI xml:id="Encanto">
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title><!-- ... --></title>
-                    <author><!-- ... --></author>
-                </titleStmt>
-                <publicationStmt>
-                    <p><!-- ... --></p>
-                </publicationStmt>
-                <sourceDesc>
-                    <p><!-- ... --></p>
-                </sourceDesc>
-            </fileDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <div>
-                    <p><!-- ... --></p>
-                </div>
-            </body>
-        </text>
-    </TEI>
+    
 </teiCorpus>

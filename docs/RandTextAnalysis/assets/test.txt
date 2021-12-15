@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_corpus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_corpus.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+     <teiHeader>
+         <fileDesc>
+             <titleStmt>
+                 <title>Songs from "In the Heights"</title>
+                 <author>Alex Sanchez</author>
+             </titleStmt>
+	        <publicationStmt>
+	            <p>Lin Manuel Miranda's compositions from his musical "In the Heights" which premiered on Broadway in 2008 and was adapted and re-released as a motion picture film of the same name in 2021.</p>
+	        </publicationStmt>
+	        <sourceDesc>
+	           <p>Information about the source</p>
+	        </sourceDesc>
+         </fileDesc>
+     </teiHeader>
+     <TEI xml:id="InTheHeights">
+         <teiHeader>
+             <fileDesc>
+                 <titleStmt>
+                     <title><!-- 96,000 --></title>
+                 </titleStmt>
+                 <publicationStmt>
+                     <p><!-- ... --></p>
+                 </publicationStmt>
+                 <sourceDesc>
+                     <p><!-- 96,000. Accessed November 29, 2021. https://genius.com/Lin-manuel-miranda-christopher-jackson-robin-de-jesus-seth-stewart-janet-dacal-and-andrea-burns-96000-lyrics.
+                     --></p>
+                 </sourceDesc>
+             </fileDesc>
+         </teiHeader>
+         <text>
+             <body>
+                 <div>
+                     <p>
+                         96, 000 Damn 
+                         96, 000 Dollers? Holla.
+                         96, 000 Yo, somebody won! 96, 000 Yo...
+                         If I won the lotto tomorrow Well I know I wouldn't bother going on no spending spree I'd pick a business school and pay the entrance fee Then maybe, if you're lucky, you'll stay friends with me.
+                         I'll be a business man, Richer than Nina's daddy, Donald Trump and I on the links, And he's my caddy My money's making money, I'm going from po' to moto Keep the bling, I want the brass ring like Frodo!
+                        Oh no, there goes Mr. Braggadocio Next thing you know, you're lying like Pinnochio Well if you're scared of the bull, stay out of the rodeo! Yo, I got more hoes than a phone book in tokyo!
+                         Ooh, you'd better stop rappin' You're not ready It's gonna get hot and heavy and you're already sweaty-  Y-y-yo-yo Yo, I'm sorry, is that an answer? Shut up, go home and pull your damn pants up! As for you, Mr. Frodo of the shire, 96 gs ain't enough to retire Come on, I'll have enough to knock your ass of its axis! You'll have a knapsack full of jack after taxes!
+                         96, 000 Ay, alabanza! 96, 000 No me diga! 96, 000 I never win shit! 96, 000
+                         For real, though, Imagine how it would feel going real slow Down the highway of life With no regrets And no breaking your neck for respect or a paycheck
+                         For real, though, I'll take a break from the wheel And we'll throw the biggest block party, everybody here It's a weekend when we can breathe, take it easy
+                         Yo! ma, it's me, check my tickets! Check one two three what would you do with 96 gs? Who, me? I mean, if it's just between you and me- Esa pregunta es tricky! I know! With 96 gs, I'd start my life with a brand new lease Atlantic city with a malibu breeze And a brand new weave- Or maybe just bleach... Y'all are freaks
+                         Yo, I'm just sayin... It's silly when we get into These crazy hypotheticals You really want some bread Then go ahead, create a set of goals And cross them off the list as you pursue them And with those 96 I know precisely what I'm doing
+                         What you doing? What am I doing? What am I doing?
+                             It takes most of that cash just to save my ass from financial ruin
+                             Sonny can keep the coffee brewin'
+                             I'll spend a few on you
+                             Cause the only room with a view's a room with you in it
+                             And I could give Abuela Claudia the rest of it
+                             Just fly me down to Puerta Plata, I'll make the best of it
+                             You really love this business?
+                             No
+                        Tough, Merry Christmas
+                             You're now the youngest tycoon in Washington Hiznits
+                             Yo, with 96, 000, I'd finally fix housing
+                             Give the barrio computers and wireless web browsing
+                             Your kids are living without a good edumacation change the station,
+                             Teach them about gentrification, the rent is escalating (what?)
+                             The rich are penetrating (what?)
+                             We pay our corporations
+                             When we should be demonstrating (what?)
+                             What about immigration? (what?)
+                             Politicians be hating (what?)
+                             Racism in this nation's gone
+                             From latent to blatent!
+                             OOOH!
+                         I'll cash my ticket and picket
+                             Invest in protest
+                             Never lose my focus 'til the
+                             City takes notice
+                             And you know this, man!
+                             I'll never sleep
+                             Because the ghetto has a million promises for me to keep!
+                             You are so cute!
+                             I was just thinking off the top of my head.
+                             96k go
+                             If I win the lottery
+                             You'll never see me again.
+                             Damn, we only jokin
+                             Stay broke, then!
+                         I'll be downtown
+                             Get a nice studio
+                             I'll get out of the barrio
+                             For real, though (If I win the lottery)
+                             Imagine how it would feel
+                             Goin' real slow
+                             Down the highway of life (You'll wonder where I've been)
+                             With no regrets
+                             And no breakin' your neck for respect
+                             Or a paycheck -
+                         It's silly when we get into these crazy hypotheticals, (I'll be downtown)
+                             You really want some bread then go ahead,
+                             Create a set of goals and cross them off the list as you pursue em', (see you around)
+                             And with those 96 I know precisely what I'm doing!
+                             Check one two three (If I win the lottery)
+                             And with the Dollah Dollah
+                             With 96 g's
+                             We get to hollah hollah
+                             Between you and me (you won't see a lot of me!)
+                             We rock the hot impala
+                             Why-hoo!
+                        With 96 g's (I'll be downtown)
+                             We movin' on tomorrah
+                             A brand new lease
+                             We rock beyond manana
+                             A malibu breeze (See you around)
+                             We drop the mama drama
+                             We stop at the Bahamas
+                             Why-oh!
+                             Why-oh!
+                             Woah, woah woah
+                             I'll be downtown!
+                        We could pay off the debts we owe!
+                             We could tell every one we know!
+                             I could get on a plane and go
+                             We'd be swimmin in dough, yo
+                             No tip-to in
+                             We'll get the dough 'n'
+                             Once we get goin
+                             We never gonna stop
+                             Tip-toin'
+                        We'll get the dough n'
+                             Once we get goin',
+                             We're never gonna
+                             Ninety six thousand!
+                             We'll get the dough 'n
+                             Ninety six thousand
+                             Once we get goin'
+                             Ninety six thousand!
+                             We'll get the dough 'n'
+                             Once we get the goin'
+                             We're never gonna stop</p>
+                 </div>
+             </body>
+         </text>
+     </TEI>
+     <TEI xml:id="MyTextNumber2">
+         <teiHeader>
+             <fileDesc>
+                 <titleStmt>
+                     <title><!-- ... --></title>
+                     <author><!-- ... --></author>
+                 </titleStmt>
+                 <publicationStmt>
+                     <p><!-- ... --></p>
+                 </publicationStmt>
+                 <sourceDesc>
+                     <p><!-- ... --></p>
+                 </sourceDesc>
+             </fileDesc>
+         </teiHeader>
+         <text>
+             <body>
+                 <div>
+                     <p><!-- ... --></p>
+                 </div>
+             </body>
+         </text>
+     </TEI>
+     <!-- More TEI Documents -->
+</teiCorpus>

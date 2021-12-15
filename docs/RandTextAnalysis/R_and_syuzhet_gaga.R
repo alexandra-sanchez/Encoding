@@ -20,14 +20,14 @@ library("dplyr")
 
 ## make VERY sure that the following packages have loaded-- base, datasets, dplyr, ggplot2, graphics, grDevices, methods, plyr, qdap, qdapDictionaries, qdapRegex, qdapTools, RColorBrewer, RCurl, RDSTK, readr, rjson, stats, syuzhet, twitteR, utils
 
-gaga = read_file("assets/lady-gaga.txt")
-View(gaga)
+lmm = read_file("assets/lmm.xml")
+View(lmm)
 
 
 ## POLARITY AND SENTIMENT
 ## in general (for us), sentiment is how postive, negative, or neutral a statement is.
 ## polarity is the degree of that sentiment
-g_scores = get_nrc_sentiment(gaga)
+g_scores = get_nrc_sentiment(lmm)
 class(g_scores)
 g_scores
 g_polarity = g_scores[1,9:10]
@@ -44,7 +44,7 @@ g_sentiment = data.matrix(g_sentiment, rownames.force = TRUE)
 barplot(g_sentiment)
 
 ## break it down by sentence
-g_speech_sen = get_sentences(gaga)
+g_speech_sen = get_sentences(lmm)
 g_speech_sen
 
 sentiment_vector = get_sentiment(g_speech_sen, method = "syuzhet")
@@ -78,5 +78,5 @@ library("wordcloud")
 ?wordcloud
 
 
-wordcloud(gaga, colors = c("red", "green") , max.words = 25)
+wordcloud(lmm, colors = c("red", "green") , max.words = 25)
 
