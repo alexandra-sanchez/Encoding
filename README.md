@@ -1,2 +1,2 @@
 # Encoding
-Chaucer TEI practice for 9/17/2021
+This folder contains various text encoding files.
